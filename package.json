@@ -1,0 +1,33 @@
+{
+  "name": "vg-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "dropzone": "^4.3.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-expect-file": "0.0.7",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.9",
+    "imagesloaded": "^4.1.1",
+    "jquery": "^3.1.1",
+    "masonry": "0.0.2",
+    "masonry-layout": "^4.1.1",
+    "vue": "^1.0.28",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^0.7.13",
+    "vue-waterfall": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

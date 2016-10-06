@@ -1,0 +1,27 @@
+{
+  "name": "vg-front",
+  "authors": [
+    "Jed Darrohn <jed@dreamthenbuild.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^1.0.27",
+    "vue-resource": "^1.0.3",
+    "bootstrap": "^3.3.7",
+    "vue-router": "^0.7.13",
+    "jquery": "^3.1.1",
+    "bootstrap-sass": "^3.3.7",
+    "masonry": "^4.1.1",
+    "imagesloaded": "^4.1.1"
+  }
+}
